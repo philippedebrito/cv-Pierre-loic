@@ -1,0 +1,54 @@
+body {
+	background-color: #00809F;
+}
+#container{
+display:flex;
+flex-direction:row;
+}
+
+.sec_gauche{
+	background-color: #A5ACAB;
+}
+
+.sec_gauche h2 {
+	padding-left: 40px;
+}
+.sec_milieu {
+	width: 700px;
+	margin-left: 50px;
+	background-color: #2811ea;
+}
+.sec_milieu img {
+	width: 160px;
+
+
+}
+.sec_droite {
+	position: absolute;
+	right: 20px;
+	top: 95px;
+	background-color: #A5ACAB;
+
+
+}
+#citation {
+	position: absolute;
+	top:0px;
+	right: 70px;
+}
+
+#defile {
+	text-align: center;
+
+}
+
+#defile img {
+	margin-top: 90px;
+	width: 650px;
+	margin-right: 50px;
+
+}
+#diplome img{
+	margin-top: 120px;
+}
+
